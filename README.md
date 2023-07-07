@@ -63,7 +63,7 @@
   <a href="https://discordapp.com/users/356879528653488138">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://https://www.instagram.com/rutz_idk/">
+  <a href="https://www.instagram.com/rutz_idk/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
