@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center" ><b>Hi</b> <img src="https://i0.wp.com/pokejungle.net/wp-content/uploads/2019/04/Eevee.gif?resize=740%2C684&ssl=1" width="35"> <b>, I'm Ruth </b> </h1> 
+<h1 align="center" ><b>Hi</b> <img src="https://thumbs.gfycat.com/PlumpGranularBrahmancow-max-1mb.gif" width="30"> <b>, I'm Ruth </b> </h1> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=88F756&center=true&vCenter=true&width=1000&lines=Hello+World!;Computer+Science+Student+at+UAL;Learning+new+skills!;My+dream+is+to+make+video+games" alt="Typing SVG" /></a>
 <p align="center"></p>
