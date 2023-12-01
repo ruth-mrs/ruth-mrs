@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center" ><b>Hi</b> <img src="https://thumbs.gfycat.com/PlumpGranularBrahmancow-max-1mb.gif" width="30"> <b>, I'm Ruth </b> </h1> 
+<h1 align="center"> <img src="https://monophy.com/media/ZENfMvJiOtymJjcBIJ/monophy.gif" width="38"> <b>, I'm Ruth </b> </h1> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=88F756&center=true&vCenter=true&width=1000&lines=Hello+World!;Computer+Science+Student+at+UAL;Learning+new+skills!;My+dream+is+to+make+video+games" alt="Typing SVG" /></a>
 <p align="center"></p>
@@ -71,9 +71,7 @@
 </br>
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=rutzrs&label=Visitors&pretty=true" />
-</a>
+<a><img src="https://visitcount.itsvg.in/api?id=rutzrs&label=Visitors&pretty=true" alt="Visitors" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
