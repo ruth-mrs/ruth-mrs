@@ -30,23 +30,23 @@
 ## Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/rutzrs/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rutzrs&theme=tokyonight&hide_border=true&mode=weekly"/>
+  <a href="https://github.com/ruth-mrs/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ruth-mrs&theme=tokyonight&hide_border=true&mode=weekly"/>
   </a>
 </p>
 
 ## GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/rutzrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutzrs&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutzrs&layout=donut&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ruth-mrs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruth-mrs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruth-mrs&layout=donut&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rutzrs&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-frame=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ruth-mrs&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-frame=true" alt="TROPHY" />
     </a>
 </div>
 
@@ -69,12 +69,12 @@
 </br>
 
 <p align="center">
-<a><img src="https://visitcount.itsvg.in/api?id=rutzrs&label=Visitors&pretty=true" alt="Visitors" /></a>
+<a><img src="https://visitcount.itsvg.in/api?id=ruth-mrs&label=Visitors&pretty=true" alt="Visitors" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
-**rutzrs/rutzrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ruth-mrs/ruth-mrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
