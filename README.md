@@ -1,9 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=88F756&center=true&vCenter=true&width=1000&lines=Hello+World!;Computer+Science+Student+at+UAL;Learning+new+skills!;My+dream+is+to+make+video+games" alt="Typing SVG" /></a>
-<p align="center"></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ruth-mrs/ruth-mrs/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/ruth-mrs/ruth-mrs/output/snake.svg" alt="Snake animation" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=88F756&center=true&vCenter=true&width=1000&lines=Hello+World!;Computer+Science+Student+at+UAL;Learning+new+skills!;My+dream+is+to+make+video+games" alt="Typing SVG" /></a>
 
 ## Technologies
 
