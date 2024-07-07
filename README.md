@@ -6,6 +6,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=88F756&center=true&vCenter=true&width=1000&lines=Hello+World!;Computer+Science+Student+at+UAL;Learning+new+skills!;My+dream+is+to+make+video+games" alt="Typing SVG" /></a>
 
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played"  />
+  </a>
+</div>
 ## Technologies
 
 <div align="center">
@@ -121,13 +126,6 @@
 </div>
 
 </br>
-
-## Now listening
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 <p align="center">
 <a><img src="https://visitcount.itsvg.in/api?id=ruth-mrs&label=Visitors&pretty=true" alt="Visitors" /></a>
