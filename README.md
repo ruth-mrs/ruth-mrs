@@ -124,8 +124,8 @@
 
 ## Now listening
 <div align="center">
-  <a href="https://open.spotify.com/user/1179269880">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1179269880&count=3&unique=true" alt="Spotify recently played"  />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played"  />
   </a>
 </div>
 
