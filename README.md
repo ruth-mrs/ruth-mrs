@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ruth-mrs/ruth-mrs/output/snake.svg" alt="Snake animation" />
 </div>
@@ -130,5 +128,3 @@
 <p align="center">
 <a><img src="https://visitcount.itsvg.in/api?id=ruth-mrs&label=Visitors&pretty=true" alt="Visitors" /></a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
