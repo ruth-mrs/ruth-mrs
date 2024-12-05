@@ -6,9 +6,15 @@
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played"  />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1179269880&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played" />
   </a>
 </div>
+
+## GitHub Contribution City 2024!
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFmMjQyNW43azFibDFreTN5NW9mbWEwbmRuaGo2dHl3d3NnbnlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxLzRn3JO8mrL3M4P8/giphy.gif" alt="Github 2024" style="width: 900px" />
+</div>
+
 ## Technologies
 
 <div align="center">
