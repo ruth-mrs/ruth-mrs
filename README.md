@@ -10,7 +10,7 @@
   </a>
 </div>
 
-## GitHub Contribution City 2024!
+## GitHub Contribution City 2024
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFmMjQyNW43azFibDFreTN5NW9mbWEwbmRuaGo2dHl3d3NnbnlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxLzRn3JO8mrL3M4P8/giphy.gif" alt="Github 2024" style="width: 900px" />
 </div>
