@@ -10,11 +10,6 @@
   </a>
 </div>
 
-## GitHub Contribution City 2024
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFmMjQyNW43azFibDFreTN5NW9mbWEwbmRuaGo2dHl3d3NnbnlqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IxLzRn3JO8mrL3M4P8/giphy.gif" alt="Github 2024" style="width: 900px" />
-</div>
-
 ## Technologies
 
 <div align="center">
@@ -89,14 +84,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
 </div>
-
-## Contribution Streak
-
-<p align="center">
-  <a href="https://github.com/ruth-mrs/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ruth-mrs&theme=tokyonight&hide_border=true&mode=weekly"/>
-  </a>
-</p>
 
 ## GitHub Analytics
 
