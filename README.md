@@ -117,7 +117,3 @@
 </div>
 
 </br>
-
-<p align="center">
-<a><img src="https://visitcount.itsvg.in/api?id=ruth-mrs&label=Visitors&pretty=true" alt="Visitors" /></a>
-</p>
